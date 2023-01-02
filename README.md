@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Fhizix 
+👋 Hi, I’m @Fhizix 
 - I’m interested in Stuff
 - I’m currently learning Stuff
-- AAAAAAAAAAAAAAAAAAA
-- I'm lost.
-- I also really like Amber.
+- I'm obsessed with New York City.
+I don't use GitHub.
